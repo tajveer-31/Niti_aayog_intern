@@ -67,11 +67,11 @@ I designed and built the dashboard end to end: structuring the tracker data, wri
 
 | Onboarding Status | Way Forward |
 |---|---|
-| ![Onboarding Status](images/onboarding-status.png) | ![Way Forward](images/way-forward.png) |
+![alt text](<images/Screenshot 2026-10-21 at 1.08.43 PM.png>)| ![Way Forward](<images/Screenshot 2026-10-21 at 1.09.18 PM.png>) |
 
 ## Links
 
-- Live dashboard: [Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
+- Live dashboard: [Tableau Public]([text](https://public.tableau.com/shared/R6WTW94XQ?:display_count=n&:origin=viz_share_link))
 - Author: [Your Name](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
