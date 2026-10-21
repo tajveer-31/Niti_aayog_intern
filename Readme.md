@@ -3,7 +3,7 @@
 
 An interactive Tableau dashboard that tracks how States and Union Territories are progressing in onboarding the **Women Entrepreneurship Platform (WEP)**. I built it during my internship at **NITI Aayog**.
 
-[![Dashboard preview](Screenshot 2026-10-21 at 1.08.43 PM.png)](YOUR_TABLEAU_PUBLIC_LINK)
+[![Dashboard preview](![alt text](<Screenshot 2026-10-21 at 1.08.43 PM.png>))](YOUR_TABLEAU_PUBLIC_LINK)
 
 **[▶ View the live dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)**
 
