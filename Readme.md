@@ -2,8 +2,7 @@
 # WEP States Tracker: Interactive Tableau Dashboard
 
 An interactive Tableau dashboard that tracks how States and Union Territories are progressing in onboarding the **Women Entrepreneurship Platform (WEP)**. I built it during my internship at **NITI Aayog**.
-
-[![Dashboard preview](![alt text](<Screenshot 2026-10-21 at 1.08.43 PM.png>))]
+![alt text](<images/Screenshot 2026-10-21 at 1.08.43 PM.png>)))]
 
 > **Data note:** The data is not included in this repository. Figures shown in the screenshots are limited to what is already public or has been cleared for display.
 
